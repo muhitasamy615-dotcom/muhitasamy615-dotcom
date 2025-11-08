@@ -1,5 +1,5 @@
 Muhita samy
- Salut ! 👋 Je suis Muhita Samy
+Je suis Muhita Samy
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur passionné basé en **République démocratique du Congo**, spécialisé dans le **développement web et logiciel**. 
 
